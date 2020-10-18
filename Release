@@ -1,0 +1,11 @@
+Origin: DNTmaster's Repo
+Label: DNTmaster
+Suite: stable
+Version: 1.0
+Codename: DNTmaster
+Architecture: iphoneos-arm
+Components: main
+Description: DNTmaster's Tweaks
+md5sum:
+ 95e70993ded15aaaa24dc616e3b34b92 4705 Packages
+ ec9648543d39c8112f9362cedae8f8ad 1368 Packages.bz2
